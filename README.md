@@ -8,7 +8,7 @@
 - 🔭 I'm currently learning **NodeJS & ReactJs**
 - 💬 Ask me about: everything especially about **tech, series, podcasts**
 - **I** ❤️ **to think, learn, code, and customize everything**
-- 🔥 On Progress Project: E-lea rning Front-End Web Developer
+- 🔥 On Progress Project: E-learning Front-End Web Developer
 
 ### 📫 Reach me
 [![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.ismailhabibi%40gmail.com)](mailto:nunodanielmendes22@gmail.com)
