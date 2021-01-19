@@ -16,7 +16,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/daniimendes22?style=social)](https://twitter.com/daniimendes22)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fismlhbb)](https://www.instagram.com/danii_mendes22/)
 
-### ✨Visitors
-[![ViewCount](https://views.whatilearened.today/views/github/daniimendes22/daniimendes22.svg?cache=remove)](#)
+### ✨Stats
+
+![daniimendes22's github stats](https://github-readme-stats.vercel.app/api?username=daniimendes22&show_icons=true)
+
 ---
 ⭐️ From [Daniel Mendes](https://github.com/daniimendes22)
