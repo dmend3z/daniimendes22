@@ -31,7 +31,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/nunodanielmendes/" target="_black"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-nunodanielmendes-blue?&style=plastic&logo=Linkedin&logoColor=white" title="Linkedin Badge" /></a>
-	<a href="mailto:nunodanielmendes22@gmail.com" target="_black"><img alt="Gmail Badge" src="https://img.shields.io/badge/-jeferson.luckas-c14438?&style=plastic&logo=Gmail&logoColor=white" title="Gmail Badge" /></a>
+	<a href="mailto:nunodanielmendes22@gmail.com" target="_black"><img alt="Gmail Badge" src="https://img.shields.io/badge/-Daniel.Mendes-c14438?&style=plastic&logo=Gmail&logoColor=white" title="Gmail Badge" /></a>
 	<a href="https://www.instagram.com/danii_mendes22/" target="_black"><img alt="nstagram Badge" src="https://img.shields.io/badge/-danii_mendes22-ec544c?&style=plastic&logo=Instagram&logoColor=white" title="Instagram Badge" /></a>
 	<a href="https://twitter.com/daniimendes22" target="_black"><img alt="Twitter Badge" src="https://img.shields.io/badge/-daniimendes22-fff?fff&style=plastic&logo=twitter" title="Twitter Badge" /></a>
 
