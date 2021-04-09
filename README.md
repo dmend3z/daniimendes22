@@ -37,33 +37,6 @@
 
 </p>
 
-<p align="center">
-	<img alt="HTML5" src="https://img.shields.io/badge/-HTML-fff?style=plastic&logo=HTML5" title="HTML5" />
-	<img alt="CSS3" src="https://img.shields.io/badge/-CSS-fff?style=plastic&logo=CSS3&logoColor=1572B6" title="CSS3" />
-	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fff?fff&style=plastic&logo=javascript&logoColor=f7ab00" title="JavaScript" />
-	<img alt="Sass" src="https://img.shields.io/badge/-Sass-ffffff?style=plastic&logo=sass" title="Sass" />
-	<img alt="JSON" src="https://img.shields.io/badge/-JSON-fff?style=plastic&logo=json&logoColor=1a1a1a" title="JSON" />
-	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-fff?style=plastic&logo=typescript" title="TypeScript" />
-	<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-fff?style=plastic&logoColor=00758f&logo=mysql" title="MySQL" />
-	<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-fff?style=plastic&logoColor=fff&logo=node.js&logoColor=5B9856" title="Node.js" />
-	<img alt="Angular.js" src="https://img.shields.io/badge/-Angular-fff?style=plastic&logo=angular&logoColor=af2d2f" title="Angular.js" />
-	<img alt="ReactJS" src="https://img.shields.io/badge/-React-fff?style=plastic&logo=react&logoColor=18BCEE" title="ReactJS" />
-	<img alt="Vue.JS" src="https://img.shields.io/badge/-Vue.JS-fff?style=plastic&logo=vue.js" title="Vue.JS" />
-</p>
-
-<!-- Tools Front-end -->
-<p align="center">
-	<img alt="Babel" src="https://img.shields.io/badge/-Babel-fff?style=plastic&logo=babel" title="Babel" />
-	<img alt="Figma" src="https://img.shields.io/badge/-Figma-fff?fff&style=plastic&logo=figma" title="Figma" />
-	<img alt="Git" src="https://img.shields.io/badge/-Git-fff?style=plastic&logo=git" title="Git" />
-	<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-fff?style=plastic&logo=github&logoColor=333333" title="GitHub" />
-	<img alt="Gulp" src="https://img.shields.io/badge/-Gulp-fff?style=plastic&logo=gulp" title="Gulp" />
-	<img alt="Jest" src="https://img.shields.io/badge/-Jest-fff?style=plastic&logo=jest&logoColor=944058" title="Jest" />
-	<img alt="NPM" src="https://img.shields.io/badge/-NPM-fff?style=plastic&logo=npm" title="NPM" />
-	<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-fff?style=plastic&logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code" />
-	<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-fff?style=plastic&logo=webpack&logoColor=1b74ba" title="Webpack" />
-</p>
-
 <!-- GitHub Stats -->
 
 <p align="center">
