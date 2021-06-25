@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Daniel Mendes, a software developer 👨‍💻</div>  
   
@@ -12,7 +8,7 @@
 - 🌱 I’m currently learning Serverless  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to JavaScript, Typescript, React, NodeJs  
   
 
 - ⚡ Fun fact: I hate java  
