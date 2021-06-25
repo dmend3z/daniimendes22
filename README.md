@@ -2,7 +2,7 @@
 ### <div align="center">I'm Daniel Mendes, a software developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Mindera](https://github.com/Mindera)  
+- 🔭 I’m currently working on [Mindera School](https://github.com/Mindera)  
   
 
 - 🌱 I’m currently learning Serverless  
