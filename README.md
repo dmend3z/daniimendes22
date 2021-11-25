@@ -8,4 +8,4 @@ Software Developer @RandTechC.
 
 I am a Software Developer passionate about planning and implementing modern and secure websites.
 I am ready for challenges with different requirements, as it is always important for me not to resort to standard solutions, but to develop an appropriate concept.
-I have experience with React, JavaScript, NodeJs, TypeScript, NodeJs, NextJS Java, Spring Boot, JPA and Hibernate and I am focused on building products with high-performance, scalability and security features. If you have a challenge for me: let’s talk!
+I have experience with React, JavaScript, TypeScript, NodeJs, NextJS and I am focused on building products with high-performance, scalability and security features. If you have a challenge for me: let’s talk!
