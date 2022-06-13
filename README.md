@@ -1,6 +1,6 @@
 # Daniel Mendes aka DNX.
 
-Software Engineer.
+Solidity, React and more. Software Developer @Exclusible.
 
 [![Twitter Badge](https://img.shields.io/badge/-@dnxdotdev-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/dnxdotdev)](https://twitter.com/dnxdotdev) 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Mendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nunodanielmendes/)](https://www.linkedin.com/in/nunodanielmendes/) 
